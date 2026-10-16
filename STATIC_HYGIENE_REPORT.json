@@ -1,0 +1,16 @@
+{
+  "AST_checked_count": 378,
+  "finding_count": 0,
+  "findings": [],
+  "limitations": [
+    "static scanning cannot prove all information sensitivity",
+    "deployment/identity/receipt data omitted; not executable production bundle",
+    "no guarantee about third-party publication rights"
+  ],
+  "network_or_runtime_executed": false,
+  "public_ready": false,
+  "python_compile_count": 378,
+  "requires_parent_second_review": true,
+  "schema": "public-export-location-only-static-scan/v1",
+  "source_structure_checked": 376
+}
